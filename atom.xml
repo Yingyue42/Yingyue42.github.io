@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-05-27T14:10:46.279Z</updated>
+  <updated>2022-05-27T14:15:08.535Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,19 +17,18 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>欢迎</title>
-    <link href="http://example.com/2022/05/27/%E6%AC%A2%E8%BF%8E/"/>
-    <id>http://example.com/2022/05/27/%E6%AC%A2%E8%BF%8E/</id>
-    <published>2022-05-27T14:00:00.000Z</published>
-    <updated>2022-05-27T14:10:46.279Z</updated>
+    <title>以Obsidian作为Markdown编辑器</title>
+    <link href="http://example.com/2022/05/27/%E4%BB%A5Obsidian%E4%BD%9C%E4%B8%BAMarkdown%E7%BC%96%E8%BE%91%E5%99%A8/"/>
+    <id>http://example.com/2022/05/27/%E4%BB%A5Obsidian%E4%BD%9C%E4%B8%BAMarkdown%E7%BC%96%E8%BE%91%E5%99%A8/</id>
+    <published>2022-05-27T14:30:00.000Z</published>
+    <updated>2022-05-27T14:15:08.535Z</updated>
     
-    <content type="html"><![CDATA[<p>欢迎来到【影月】的个人博客。</p><p>本博客基于github pages、hexo发布，使用obsidian进行文章编辑。</p>]]></content>
+    <content type="html"><![CDATA[<p>将“XXX/source/_posts”作为库打开。</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;欢迎来到【影月】的个人博客。&lt;/p&gt;
-&lt;p&gt;本博客基于github pages、hexo发布，使用obsidian进行文章编辑。&lt;/p&gt;
+    <summary type="html">&lt;p&gt;将“XXX/source/_posts”作为库打开。&lt;/p&gt;
 </summary>
       
     
@@ -39,18 +38,21 @@
   </entry>
   
   <entry>
-    <title>以Obsidian作为Markdown编辑器</title>
-    <link href="http://example.com/2022/05/27/%E4%BB%A5Obsidian%E4%BD%9C%E4%B8%BAMarkdown%E7%BC%96%E8%BE%91%E5%99%A8/"/>
-    <id>http://example.com/2022/05/27/%E4%BB%A5Obsidian%E4%BD%9C%E4%B8%BAMarkdown%E7%BC%96%E8%BE%91%E5%99%A8/</id>
-    <published>2022-05-27T09:38:24.000Z</published>
-    <updated>2022-05-27T14:11:36.398Z</updated>
+    <title>欢迎</title>
+    <link href="http://example.com/2022/05/27/%E6%AC%A2%E8%BF%8E/"/>
+    <id>http://example.com/2022/05/27/%E6%AC%A2%E8%BF%8E/</id>
+    <published>2022-05-27T14:00:00.000Z</published>
+    <updated>2022-05-27T14:15:57.495Z</updated>
     
-    <content type="html"><![CDATA[<p>如题而言。</p>]]></content>
+    <content type="html"><![CDATA[<center>欢迎来到【影月】的个人博客</center><p>本博客基于github pages、hexo发布，使用obsidian进行文章编辑。</p><p>本页面将以时间先后顺序（越靠后越居上）进行排列显示，祝你阅读愉快。</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;如题而言。&lt;/p&gt;
+    <summary type="html">&lt;center&gt;欢迎来到【影月】的个人博客&lt;/center&gt;
+
+&lt;p&gt;本博客基于github pages、hexo发布，使用obsidian进行文章编辑。&lt;/p&gt;
+&lt;p&gt;本页面将以时间先后顺序（越靠后越居上）进行排列显示，祝你阅读愉快。&lt;/p&gt;
 </summary>
       
     
